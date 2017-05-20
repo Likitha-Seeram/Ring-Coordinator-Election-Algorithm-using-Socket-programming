@@ -11,4 +11,4 @@ Steps to run the application:
 •	Election process starts again and a new coordinator is elected which has highest process ID
 
 Limitation:
-Simultaneous election is not implemented
+Simultaneous election is not implemented.
